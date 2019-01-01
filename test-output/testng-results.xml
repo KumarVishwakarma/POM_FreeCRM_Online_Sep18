@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="165878" started-at="2018-12-27T05:42:53Z" finished-at="2018-12-27T05:45:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="165878" started-at="2018-12-27T05:42:53Z" finished-at="2018-12-27T05:45:39Z">
+      <class name="testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="38451" started-at="2018-12-27T05:42:53Z" finished-at="2018-12-27T05:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:testcases.HomePageTest@612fc6eb]" name="verifyHomePageTitleTest" duration-ms="925" started-at="2018-12-27T05:43:31Z" finished-at="2018-12-27T05:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="2096" started-at="2018-12-27T05:43:32Z" finished-at="2018-12-27T05:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="23688" started-at="2018-12-27T05:43:34Z" finished-at="2018-12-27T05:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:testcases.HomePageTest@612fc6eb]" name="verifyUserNameTest" duration-ms="11524" started-at="2018-12-27T05:43:58Z" finished-at="2018-12-27T05:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="920" started-at="2018-12-27T05:44:10Z" finished-at="2018-12-27T05:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="29434" started-at="2018-12-27T05:44:11Z" finished-at="2018-12-27T05:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactsLinkTest()[pri:3, instance:testcases.HomePageTest@612fc6eb]" name="verifyContactsLinkTest" duration-ms="13631" started-at="2018-12-27T05:44:40Z" finished-at="2018-12-27T05:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="995" started-at="2018-12-27T05:44:54Z" finished-at="2018-12-27T05:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="30991" started-at="2018-12-27T05:44:55Z" finished-at="2018-12-27T05:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyFormsPageTest()[pri:4, instance:testcases.HomePageTest@612fc6eb]" name="verifyFormsPageTest" duration-ms="12185" started-at="2018-12-27T05:45:26Z" finished-at="2018-12-27T05:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFormsPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.HomePageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="959" started-at="2018-12-27T05:45:38Z" finished-at="2018-12-27T05:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
